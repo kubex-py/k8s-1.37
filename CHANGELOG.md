@@ -11,6 +11,8 @@ part of kubex's changelog.
 
 ## [Unreleased]
 
+## [0.1.0-beta.3] - 2026-11-23
+
 ### Added
 
 - The `Programming Language :: Python :: Free Threading :: 2 - Beta` classifier: the models work on
@@ -83,7 +85,8 @@ Released together with kubex 0.1.0-beta.1.
 
 First release: Pydantic v2 models for Kubernetes 1.37, generated from a pre-release spec.
 
-[unreleased]: https://github.com/kubex-py/k8s-1.37/compare/v0.1.0-beta.2...HEAD
+[unreleased]: https://github.com/kubex-py/k8s-1.37/compare/v0.1.0-beta.3...HEAD
+[0.1.0-beta.3]: https://github.com/kubex-py/k8s-1.37/compare/v0.1.0-beta.2...v0.1.0-beta.3
 [0.1.0-beta.2]: https://github.com/kubex-py/k8s-1.37/compare/v0.1.0-beta.1...v0.1.0-beta.2
 [0.1.0-beta.1]: https://github.com/kubex-py/k8s-1.37/compare/v0.1.0-alpha.3...v0.1.0-beta.1
 [0.1.0-alpha.3]: https://github.com/kubex-py/k8s-1.37/compare/v0.1.0-alpha.2...v0.1.0-alpha.3
